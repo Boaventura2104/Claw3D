@@ -1,0 +1,8 @@
+﻿node.exe : error: unknown option '--ui-build'
+No C:\Program Files\nodejs\npx.ps1:29 caractere:3
++   & $NODE_EXE $NPX_CLI_JS $args
++   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (error: unknown option '--ui-build':Stri 
+   ng) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 

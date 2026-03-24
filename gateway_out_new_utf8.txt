@@ -1,0 +1,57 @@
+﻿node.exe : 
+[90m2026-03-23T11:30:33.900-03:00[39m 
+[36m[gateway][39m [33mMissing Control UI 
+assets at C:\Users\alyss\AppData\Local\npm-ca
+che\_npx\8718c3904bb5fece\node_modules\opencl
+aw\dist\control-ui\index.html. Build them 
+with `pnpm ui:build` (auto-installs UI 
+deps).[39m
+No C:\Program Files\nodejs\npx.ps1:29 
+caractere:3
++   & $NODE_EXE $NPX_CLI_JS $args
++   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified:  
+   ([90m2026-03-23... UI deps).[39m:Strin  
+  g) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandE 
+   rror
+ 
+[90m2026-03-23T11:30:33.911-03:00[39m [35m[canvas][39m [36mhost mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root C:\Users\alyss\.openclaw\canvas)[39m
+2026-03-23T11:30:33.980-03:00 bonjour: starting (hostname=openclaw, instance="Alysson (OpenClaw)", gatewayPort=18789, minimal=true)
+[90m2026-03-23T11:30:34.135-03:00[39m [36m[heartbeat][39m [36mstarted[39m
+[90m2026-03-23T11:30:34.140-03:00[39m [32m[health-monitor][39m [36mstarted (interval: 300s, startup-grace: 60s, channel-connect-grace: 120s)[39m
+[90m2026-03-23T11:30:34.173-03:00[39m [36m[gateway][39m [36magent model: openai-codex/gpt-5.4[39m
+[90m2026-03-23T11:30:34.178-03:00[39m [36m[gateway][39m [36mlistening on ws://127.0.0.1:18789, ws://[::1]:18789 (PID 11732)[39m
+[90m2026-03-23T11:30:34.182-03:00[39m [36m[gateway][39m [36mlog file: \tmp\openclaw\openclaw-2026-03-23.log[39m
+[90m2026-03-23T11:30:34.216-03:00[39m [34m[telegram][39m [36mautoSelectFamily=true (default-node22)[39m
+[90m2026-03-23T11:30:34.220-03:00[39m [34m[telegram][39m [36mdnsResultOrder=ipv4first (default-node22)[39m
+[90m2026-03-23T11:30:34.274-03:00[39m [36m[browser/server][39m [36mBrowser control listening on http://127.0.0.1:18791/ (auth=token)[39m
+[90m2026-03-23T11:30:37.341-03:00[39m [36m[ws][39m [36mÔåÉ open remoteAddr=::1 conn=40cb0c70ÔÇª9cb2[39m
+[90m2026-03-23T11:30:37.355-03:00[39m 
+[36m[ws][39m [33mclosed before connect 
+conn=40cb0c70-8257-465c-ae7e-b110c61a9cb2 
+remote=::1 fwd=n/a 
+origin=http://localhost:18789 
+host=localhost:18789 ua=n/a code=1008 
+reason=invalid connect params: at /device: 
+must have required property 'nonce'[39m
+[90m2026-03-23T11:30:37.358-03:00[39m [36m[ws][39m [36mÔåÆ close code=1008 reason=invalid connect params: at /device: must have required property 'nonce' durationMs=18 cause=invalid-handshake handshake=failed lastFrameType=req lastFrameMethod=connect lastFrameId=de76fb92-8142-4041-a7b5-e8cf5308165c[39m
+[90m2026-03-23T11:30:38.778-03:00[39m [34m[telegram][39m [36m[default] starting provider (@CEOSheldonBot)[39m
+[90m2026-03-23T11:30:38.782-03:00[39m [34m[telegram][39m [36mautoSelectFamily=true (default-node22)[39m
+[90m2026-03-23T11:30:38.784-03:00[39m [34m[telegram][39m [36mdnsResultOrder=ipv4first (default-node22)[39m
+2026-03-23T11:30:38.799-03:00 [routing] resolveAgentRoute: channel=telegram accountId=default peer=none guildId=none teamId=none bindings=0
+2026-03-23T11:30:38.804-03:00 Skipping agent "main": workspace does not exist: C:\Users\alyss\.openclaw\workspace
+[90m2026-03-23T11:30:40.366-03:00[39m [34m[telegram][39m [90mupdate: {"update_id":369029904,"message_reaction":{"chat":{"id":7857456647,"first_name":"Alysson","last_name":"Boaventura","username":"oboaventura","type":"private"},"message_id":138,"user":{"id":7857456647,"is_bot":false,"first_name":"Alysson","last_name":"Boaventura","username":"oboaventura","language_code":"pt-br"},"date":1774202731,"old_reaction":[],"new_reaction":[{"type":"emoji","emoji":"ÔØñ"}]}}[39m
+[90m2026-03-23T11:30:40.368-03:00[39m [34m[telegram][39m [90mupdate: {"update_id":369029905,"message":{"message_id":139,"from":{"id":7857456647,"is_bot":false,"first_name":"Alysson","last_name":"Boaventura","username":"oboaventura","language_code":"pt-br"},"chat":{"id":7857456647,"first_name":"Alysson","last_name":"Boaventura","username":"oboaventura","type":"private"},"date":1774202754,"text":"Vamos usar o claw3d agora com nosso openclaw!\n\nhttps://github.com/iamlukethedev/Claw3D","entities":[{"offset":47,"length":39,"type":"url"}],"link_preview_options":{"url":"https://github.com/iamlukethedev/Claw3D"}}}[39m
+2026-03-23T11:30:40.381-03:00 [routing] resolveAgentRoute: channel=telegram accountId=default peer=direct:7857456647 guildId=none teamId=none bindings=0
+2026-03-23T11:30:40.835-03:00 telegram ingress: chatId=7857456647 dropped after 456ms buffer=inbound-debounce
+[90m2026-03-23T11:30:40.838-03:00[39m [34m[telegram][39m [90mupdate: {"update_id":369029906,"message":{"message_id":140,"from":{"id":7857456647,"is_bot":false,"first_name":"Alysson","last_name":"Boaventura","username":"oboaventura","language_code":"pt-br"},"chat":{"id":7857456647,"first_name":"Alysson","last_name":"Boaventura","username":"oboaventura","type":"private"},"date":1774276077,"text":"Ol├í"}}[39m
+2026-03-23T11:30:40.843-03:00 [routing] resolveAgentRoute: channel=telegram accountId=default peer=direct:7857456647 guildId=none teamId=none bindings=0
+2026-03-23T11:30:40.850-03:00 telegram ingress: chatId=7857456647 dropped after 8ms buffer=inbound-debounce
+[90m2026-03-23T11:30:40.852-03:00[39m [34m[telegram][39m [90mupdate: {"update_id":369029907,"message":{"message_id":141,"from":{"id":7857456647,"is_bot":false,"first_name":"Alysson","last_name":"Boaventura","username":"oboaventura","language_code":"pt-br"},"chat":{"id":7857456647,"first_name":"Alysson","last_name":"Boaventura","username":"oboaventura","type":"private"},"date":1774276133,"text":"opa"}}[39m
+2026-03-23T11:30:40.855-03:00 [routing] resolveAgentRoute: channel=telegram accountId=default peer=direct:7857456647 guildId=none teamId=none bindings=0
+2026-03-23T11:30:40.862-03:00 telegram ingress: chatId=7857456647 dropped after 7ms buffer=inbound-debounce
+[90m2026-03-23T11:30:44.688-03:00[39m [36m[ws][39m [36mÔåÉ open remoteAddr=::1 conn=fe4ebed9ÔÇª016f[39m
+[90m2026-03-23T11:30:44.702-03:00[39m [36m[ws][39m [36mÔåÉ connect client=openclaw-control-ui version=dev mode=webchat clientId=openclaw-control-ui platform=Win32 auth=token[39m
+[90m2026-03-23T11:30:44.704-03:00[39m [36m[ws][39m [36mwebchat connected conn=fe4ebed9-0abf-4307-8c0f-ad9eb712016f remote=::1 client=openclaw-control-ui webchat vdev[39m
+[90m2026-03-23T11:30:44.709-03:00[39m [36m[ws][39m [36mÔåÆ hello-ok methods=108 events=22 presence=2 stateVersion=2[39m

@@ -1,0 +1,59 @@
+﻿==== PM2 LIST ====
+ÔöîÔöÇÔöÇÔöÇÔöÇÔö¼ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔö¼ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔö¼ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔö¼ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔö¼ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔö¼ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔö¼ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔö¼ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔö¼ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔö¼ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔö¼ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔö¼ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÉ
+Ôöé id Ôöé name                Ôöé namespace   Ôöé version Ôöé mode    Ôöé pid      Ôöé uptime Ôöé Ôå║    Ôöé status    Ôöé cpu      Ôöé mem      Ôöé user     Ôöé watching Ôöé
+Ôö£ÔöÇÔöÇÔöÇÔöÇÔö╝ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔö╝ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔö╝ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔö╝ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔö╝ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔö╝ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔö╝ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔö╝ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔö╝ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔö╝ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔö╝ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔö╝ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöñ
+Ôöé [1m[36m0[39m[22m  Ôöé claw3d              Ôöé default     Ôöé N/A     Ôöé [7m[1mfork[22m[27m    Ôöé 12796    Ôöé 4h     Ôöé 0    Ôöé [32m[1monline[22m[39m    Ôöé 0%       Ôöé 4.1mb    Ôöé [1malyss[22m    Ôöé [90mdisabled[39m Ôöé
+Ôöé [1m[36m1[39m[22m  Ôöé openclaw-gateway    Ôöé default     Ôöé N/A     Ôöé [7m[1mfork[22m[27m    Ôöé 14720    Ôöé 4h     Ôöé 0    Ôöé [32m[1monline[22m[39m    Ôöé 0%       Ôöé 4.1mb    Ôöé [1malyss[22m    Ôöé [90mdisabled[39m Ôöé
+ÔööÔöÇÔöÇÔöÇÔöÇÔö┤ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔö┤ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔö┤ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔö┤ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔö┤ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔö┤ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔö┤ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔö┤ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔö┤ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔö┤ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔö┤ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔö┤ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÿ
+
+
+==== TAILSCALE STATUS ====
+100.113.107.39   alysson                   hubpjota@  windows  -                                                      
+100.73.60.104    d9caae17224f-1            hubpjota@  linux    offline, last seen 22d ago                             
+100.92.188.4     d9caae17224f-2            hubpjota@  linux    offline, last seen 21d ago                             
+100.72.64.61     d9caae17224f              hubpjota@  linux    offline, last seen 22d ago                             
+100.127.27.128   iphone-xr                 hubpjota@  iOS      offline, last seen 56m ago                             
+100.117.112.117  macbook-air-de-alysson-1  hubpjota@  macOS    offline, last seen 26d ago                             
+100.110.105.55   macbook-air-de-alysson-2  hubpjota@  macOS    offline, last seen 23d ago                             
+100.73.48.72     macbook-air-de-alysson-3  hubpjota@  macOS    offline, last seen 22d ago                             
+100.100.82.95    macbook-air-de-alysson-4  hubpjota@  macOS    offline, last seen 22d ago                             
+100.111.43.49    macbook-air-de-alysson-5  hubpjota@  macOS    offline, last seen 22d ago                             
+100.71.62.111    macbook-air-de-alysson-6  hubpjota@  macOS    offline, last seen 11d ago                             
+100.72.233.39    macbook-air-de-alysson-7  hubpjota@  macOS    offline, last seen 2d ago                              
+100.117.70.96    macbook-air-de-alysson-8  hubpjota@  macOS    offline, last seen 16m ago                             
+100.123.8.74     macbook-air-de-alysson-9  hubpjota@  macOS    active; direct 179.127.249.198:58906, tx 8840 rx 6744  
+100.69.129.21    macbook-air-de-alysson    hubpjota@  macOS    offline, last seen 29d ago                             
+100.114.89.119   macbook-air-de-nicollas   hubpjota@  macOS    offline, last seen 24d ago                             
+100.125.196.116  srv1369744                hubpjota@  linux    offline, last seen 7d ago                              
+
+
+==== NETSTAT 18789 (OpenClaw) ====
+  TCP    127.0.0.1:18789        0.0.0.0:0              LISTENING       17940
+  TCP    [::1]:18789            [::]:0                 LISTENING       17940
+  TCP    [::1]:18789            [::1]:49556            TIME_WAIT       0
+
+
+==== NETSTAT 3000 (Claw3D) ====
+  TCP    127.0.0.1:3000         0.0.0.0:0              LISTENING       14928
+  TCP    127.0.0.1:3000         127.0.0.1:49555        TIME_WAIT       0
+  TCP    [::1]:3000             [::]:0                 LISTENING       14928
+  TCP    [::1]:3000             [::1]:51202            TIME_WAIT       0
+  TCP    [::1]:3000             [::1]:53410            FIN_WAIT_2      14928
+  TCP    [::1]:3000             [::1]:53514            TIME_WAIT       0
+  TCP    [::1]:3000             [::1]:54167            TIME_WAIT       0
+  TCP    [::1]:3000             [::1]:54932            TIME_WAIT       0
+  TCP    [::1]:3000             [::1]:56820            TIME_WAIT       0
+  TCP    [::1]:3000             [::1]:57601            TIME_WAIT       0
+  TCP    [::1]:3000             [::1]:57972            CLOSE_WAIT      14928
+  TCP    [::1]:3000             [::1]:58180            TIME_WAIT       0
+  TCP    [::1]:3000             [::1]:58704            TIME_WAIT       0
+  TCP    [::1]:3000             [::1]:59405            CLOSE_WAIT      14928
+  TCP    [::1]:3000             [::1]:61315            ESTABLISHED     14928
+  TCP    [::1]:3000             [::1]:62778            TIME_WAIT       0
+  TCP    [::1]:3000             [::1]:63781            TIME_WAIT       0
+  TCP    [::1]:3000             [::1]:64184            TIME_WAIT       0
+  TCP    [::1]:53410            [::1]:3000             CLOSE_WAIT      32560
+  TCP    [::1]:57972            [::1]:3000             FIN_WAIT_2      25484
+  TCP    [::1]:59405            [::1]:3000             FIN_WAIT_2      18412
+  TCP    [::1]:61315            [::1]:3000             ESTABLISHED     32560
+

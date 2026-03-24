@@ -1,0 +1,33 @@
+﻿[1m[7m Describing process with id 1 - name openclaw-gateway [27m[22m
+ÔöîÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔö¼ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÉ
+Ôöé status            Ôöé [32m[1monline[22m[39m                                                             Ôöé
+Ôöé name              Ôöé openclaw-gateway                                                   Ôöé
+Ôöé namespace         Ôöé default                                                            Ôöé
+Ôöé version           Ôöé N/A                                                                Ôöé
+Ôöé restarts          Ôöé 1                                                                  Ôöé
+Ôöé uptime            Ôöé 8h                                                                 Ôöé
+Ôöé script path       Ôöé C:\WINDOWS\SYSTEM32\CMD.EXE                                        Ôöé
+Ôöé script args       Ôöé /c npx openclaw gateway run --bind loopback --port 18789 --verbose Ôöé
+Ôöé error log path    Ôöé C:\Users\alyss\.pm2\logs\openclaw-gateway-error.log                Ôöé
+Ôöé out log path      Ôöé C:\Users\alyss\.pm2\logs\openclaw-gateway-out.log                  Ôöé
+Ôöé pid path          Ôöé C:\Users\alyss\.pm2\pids\openclaw-gateway-1.pid                    Ôöé
+Ôöé interpreter       Ôöé none                                                               Ôöé
+Ôöé interpreter args  Ôöé N/A                                                                Ôöé
+Ôöé script id         Ôöé 1                                                                  Ôöé
+Ôöé exec cwd          Ôöé C:\Users\alyss\Documents\claw3d\Claw3D                             Ôöé
+Ôöé exec mode         Ôöé fork_mode                                                          Ôöé
+Ôöé node.js version   Ôöé N/A                                                                Ôöé
+Ôöé node env          Ôöé N/A                                                                Ôöé
+Ôöé watch & reload    Ôöé Ô£ÿ                                                                  Ôöé
+Ôöé unstable restarts Ôöé 0                                                                  Ôöé
+Ôöé created at        Ôöé 2026-03-23T16:55:35.316Z                                           Ôöé
+ÔööÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔö┤ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÿ
+[7m[1m Divergent env variables from local env [22m[27m
+ÔöîÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔö¼ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÉ
+Ôöé CHROME_CRASHPAD_PIPE_NAME Ôöé \\.\pipe\crashpad_13308_GJXJEKXWRMNGRXIB Ôöé
+ÔööÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔö┤ÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÇÔöÿ
+
+[37m[3m Add your own code metrics: http://bit.ly/code-metrics[23m[39m
+[37m[3m Use `pm2 logs openclaw-gateway [--lines 1000]` to display logs[23m[39m
+[37m[3m Use `pm2 env 1` to display environment variables[23m[39m
+[37m[3m Use `pm2 monit` to monitor CPU and Memory usage[23m[39m openclaw-gateway

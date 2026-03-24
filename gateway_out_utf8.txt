@@ -1,0 +1,26 @@
+﻿node.exe : 
+[90m2026-03-23T11:19:14.122-03:00[39m 
+[36m[gateway][39m [33mMissing Control UI 
+assets at C:\Users\alyss\AppData\Local\npm-ca
+che\_npx\8718c3904bb5fece\node_modules\opencl
+aw\dist\control-ui\index.html. Build them 
+with `pnpm ui:build` (auto-installs UI 
+deps).[39m
+No C:\Program Files\nodejs\npx.ps1:29 
+caractere:3
++   & $NODE_EXE $NPX_CLI_JS $args
++   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified:  
+   ([90m2026-03-23... UI deps).[39m:Strin  
+  g) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandE 
+   rror
+ 
+[90m2026-03-23T11:19:14.136-03:00[39m [35m[canvas][39m [36mhost mounted at http://127.0.0.1:18789/__openclaw__/canvas/ (root C:\Users\alyss\.openclaw\canvas)[39m
+2026-03-23T11:19:14.215-03:00 bonjour: starting (hostname=openclaw, instance="Alysson (OpenClaw)", gatewayPort=18789, minimal=true)
+[90m2026-03-23T11:19:14.373-03:00[39m [36m[heartbeat][39m [36mstarted[39m
+[90m2026-03-23T11:19:14.376-03:00[39m [32m[health-monitor][39m [36mstarted (interval: 300s, startup-grace: 60s, channel-connect-grace: 120s)[39m
+[90m2026-03-23T11:19:14.384-03:00[39m [36m[gateway][39m [36magent model: anthropic/claude-opus-4-6[39m
+[90m2026-03-23T11:19:14.386-03:00[39m [36m[gateway][39m [36mlistening on ws://127.0.0.1:18789, ws://[::1]:18789 (PID 21724)[39m
+[90m2026-03-23T11:19:14.389-03:00[39m [36m[gateway][39m [36mlog file: \tmp\openclaw\openclaw-2026-03-23.log[39m
+[90m2026-03-23T11:19:14.434-03:00[39m [36m[browser/server][39m [36mBrowser control listening on http://127.0.0.1:18791/ (auth=token)[39m
